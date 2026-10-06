@@ -1,9 +1,8 @@
 # 💻 Alexandre Cunha
 
-** `Instrutor Front-end | UI/UX | IA | Inclusão Digital **
+** `Instrutor Front-end | UI/UX | IA | Inclusão Digital` **
 
-Olá, sou Alexandre Cunha e  tenho 51 anos, sou natural de São Bernardo do Campo-SP. Sou formado em Sistemas de Informação, Pós-Graduado em Ciência de Dados, Licenciando em Pedagogia e Pós-Graduando em EPT - Sempre fui curioso o que me atraiu a gostar tanto de tecnologia, sempre procurando
-aprender novas tecnologias para poder ensinar aos alunos a importância do conhecimento. Compartilho dicas através do perfil no Instagram "[Progweb.Frontend] (https://www.instagram.com/progweb.frontend)".
+Olá, sou Alexandre Cunha e  tenho 51 anos, sou natural de São Bernardo do Campo-SP. Sou formado em Sistemas de Informação, Pós-Graduado em Ciência de Dados, Licenciando em Pedagogia e Pós-Graduando em EPT - Sempre fui curioso o que me atraiu a gostar tanto de tecnologia, sempre procurando aprender novas tecnologias para poder ensinar aos alunos a importância do conhecimento. Compartilho dicas através do perfil no Instagram "[Progweb.Frontend] (https://www.instagram.com/progweb.frontend)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
